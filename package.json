@@ -44,5 +44,9 @@
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-script-launcher": "~0.1.0",
     "time-grunt": "^1.0.0"
+  },
+  "dependencies": {
+    "angular": "~1.5.11",
+    "angular-mocks": "^1.6.4"
   }
 }
